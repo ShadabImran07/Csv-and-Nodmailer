@@ -133,7 +133,7 @@ export async function sendWelcomeEmail(name, email, city) {
 			</div>
 			<div class="footer">
 			  <p>Team MathonGo</p>
-			  <p><a href="http://localhost:3000/api/user/unsubscribe?email=${email}">Unsubscribe</a></p>
+			  <p><a href="https://mathongo-assignment-n3wf.onrender.com/api/user/unsubscribe?email=${email}">Unsubscribe</a></p>
 			</div>
 		  </div>
 		</body>
